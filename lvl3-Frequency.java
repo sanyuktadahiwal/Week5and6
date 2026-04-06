@@ -14,7 +14,7 @@ public class lvl3-Frequency {
         }
         System.out.println("Digit Frequency Table: ");
         for (int i=0; i<10; i++){
-            if(frequncy[i]>0){                
+            if(frequency[i]>0){                
                 System.out.println("Digist " + i + " Occurs " + frequency[i] + " times.");
             }
         }
